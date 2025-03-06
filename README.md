@@ -1,4 +1,4 @@
-Project: Add the numbers inside a string
+Project: Add the numbers inside a string and write test cases
 
 Steps to set up locally:
 1) npm install -->to install depencencies
